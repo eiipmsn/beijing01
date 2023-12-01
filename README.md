@@ -1,5 +1,5 @@
 # beijing01
-gov_net
+gov_net,fgre434
 niuxih
 xzgb,ty656
 youqin
