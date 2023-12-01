@@ -1,6 +1,6 @@
 # beijing01
 gov_net,fgre434
-niuxih
+niuxih,ghr34
 xzgb,ty656
 youqin
 ojihh
