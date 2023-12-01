@@ -1,7 +1,7 @@
 # beijing01
 gov_net
 niuxih
-xzgb
+xzgb,ty656
 youqin
 ojihh
 godso
